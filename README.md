@@ -5,3 +5,13 @@
  Develop and Delay a webside using cloud foundry tool, supported by a cloud vendor (ex. IBM Cloud)
  
 ---
+### Website Details
+>I classified this website in 8 parts:
+1. Home
+2. About Me
+3. My Services
+4. My Skills
+5. My Project
+6. Stats
+7. Work Experiance
+8. Contact
