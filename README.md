@@ -7,7 +7,6 @@
 ---
 ### Website Details
 >I classified this website in 8 parts:
-```
 1. **Home**
 2. **About Me**
 3. **My Services**
@@ -16,4 +15,3 @@
 6. **Stats**
 7. **Work Experiance**
 8. **Contact Me**
-```
