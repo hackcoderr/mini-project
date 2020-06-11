@@ -15,3 +15,5 @@
 6. **Stats**
 7. **Work Experiance**
 8. **Contact Me**
+>How to configure our site with aws
+_this is my first website and lauching this becuase always think first to finish not perfect_
