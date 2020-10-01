@@ -18,5 +18,5 @@
 >How to configure our site with aws
 
 
-_this is my first website and lauching this becuase always think first to finish not perfect_
+_this is my first website and launching this because always think first to finish not perfect_
 
